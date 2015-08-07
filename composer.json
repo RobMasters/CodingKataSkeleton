@@ -1,5 +1,5 @@
 {
-    "name": "afilias/coding-kata-skeleton",
+    "name": "robmasters/coding-kata-skeleton",
     "description": "Skeleton project to give you a working directory setup for completing TDD exercises",
     "type": "project",
     "require": {

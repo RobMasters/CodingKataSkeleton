@@ -1,4 +1,4 @@
-# Afilias TDD Coding Kata Skeleton
+# TDD Coding Kata Skeleton
 
 The purpose of this project is to provide a simple setup with the tools needed to start writing code using 
 [TDD](https://en.wikipedia.org/wiki/Test-driven_development) (Test Driven Development). With practice, the 
