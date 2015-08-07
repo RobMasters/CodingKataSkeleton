@@ -12,7 +12,7 @@
             "email": "rmasters@afilias.info"
         }
     ],
-    "minimum-stability": "dev",
+    "minimum-stability": "stable",
     "autoload": {
         "psr-0": {
             "Kata": "src",
