@@ -1,0 +1,22 @@
+{
+    "name": "afilias/coding-kata-skeleton",
+    "description": "Skeleton project to give you a working directory setup for completing TDD exercises",
+    "type": "project",
+    "require": {
+        "phpspec/phpspec": "^2.2@dev",
+        "phpunit/phpunit": "^4.8@dev"
+    },
+    "authors": [
+        {
+            "name": "Rob Masters",
+            "email": "rmasters@afilias.info"
+        }
+    ],
+    "minimum-stability": "dev",
+    "autoload": {
+        "psr-0": {
+            "Kata": "src",
+            "Kata\\Test": "test"
+        }
+    }
+}
