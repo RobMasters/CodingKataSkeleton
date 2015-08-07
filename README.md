@@ -13,7 +13,7 @@ Simply install the project from composer. If you don't have it, you should downl
 The directory that you install the project into should be based on the exercise that you wish to complete. e.g. "string-calculator".
 
 ```
-composer create-project robmasters/coding-kata-skeleton [name-of-exercise]
+composer create-project robmasters/coding-kata-skeleton [name-of-exercise] dev-master
 ```
 
 ### Running tests
